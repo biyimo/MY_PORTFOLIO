@@ -1,0 +1,55 @@
+body{
+    background-color: grey;
+}
+
+.welcome{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.introduction{
+    text-align: center;
+    
+}
+
+.lekan{
+    height: 200px;
+}
+
+.about{
+    text-align: center;
+}
+
+hr{
+    border-color: aquamarine;
+}
+.hrfirst{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: aqua;
+  border-width: 5px;
+  width: 15%
+}
+header{
+    text-align: left;
+    background-color: #333;
+    padding: 1rem;
+}
+.header2{
+    text-align: center;
+    color: aqua;
+}
+.place{
+    text-align: center;
+}
+.header3{
+    text-align: center;
+    color: aqua;
+}
+.project{
+    text-align: center;
+}
+.video{
+    width: 500px;
+    align-items: center;
+}
